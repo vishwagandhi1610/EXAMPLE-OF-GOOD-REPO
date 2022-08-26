@@ -1,9 +1,8 @@
 import argparse
-
 from io import BytesIO
-from PIL import Image
 
 import requests
+from PIL import Image
 
 parser = argparse.ArgumentParser()
 
@@ -14,7 +13,6 @@ parser.add_argument("--margin", help="Margin in pixels [A] (Max Value: 50)", def
 url = "https://api.qrserver.com/v1/create-qr-code/"
 
 params = parser.parse_args()
-print(params)
 
 response = requests.request("GET", url, params=vars(params))
 img = Image.open(BytesIO(response.content))
