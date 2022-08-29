@@ -7,4 +7,6 @@ In order to participate in, prerequites required before starting are as follows:
   3. Must have enrolled in the Software Engineerng course of Fall 2022.
  
 Pull Requests
+  1. Project Quality should be maintained.
+  
 
