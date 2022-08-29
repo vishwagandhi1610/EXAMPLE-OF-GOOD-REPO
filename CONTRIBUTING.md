@@ -8,5 +8,6 @@ In order to participate in, prerequites required before starting are as follows:
  
 Pull Requests
   1. Project Quality should be maintained.
+  2. Repair the issues that are most important to the users.
   
 
