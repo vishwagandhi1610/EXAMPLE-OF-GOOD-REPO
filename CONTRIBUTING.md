@@ -1,4 +1,4 @@
-Contributing to the hellgirl16/sehw1 "Arithmatic"
+Contributing to the vishwagandhi1610/sehw1 "Arithmatic"
 
 Code of Conduct
 In order to participate in, prerequites required before starting are as follows:
