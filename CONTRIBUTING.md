@@ -6,5 +6,5 @@ In order to participate in, prerequites required before starting are as follows:
   2. Must be a graduate student at NC State University.
   3. Must have enrolled in the Software Engineerng course of Fall 2022.
  
-
+Pull Requests
 
