@@ -1,6 +1,8 @@
 # "Arithmatic" Calculator
 [![Python package](https://github.com/hellgirl16/sehw1/actions/workflows/python-package.yml/badge.svg)](https://github.com/hellgirl16/sehw1/actions/workflows/python-package.yml)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 
 This project has basic arithmetic functions - addition, subtraction, multiplication and division that can be performed between two numbers. 
 
