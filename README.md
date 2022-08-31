@@ -30,6 +30,5 @@ div_of_a_by_b = arithmatic.div(a, b) # Division of a by b
 Refer [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
-##[MIT](https://choosealicense.com/licenses/mit/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
