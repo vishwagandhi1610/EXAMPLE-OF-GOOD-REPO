@@ -6,4 +6,4 @@ authors:
  given-names: "Nirav"
  given-names: "Priya"
 title: "Arithematic calculator"
-url: "https://github.com/github/linguist"
+url: "https://github.com/vishwagandhi1610/sehw1.git"
