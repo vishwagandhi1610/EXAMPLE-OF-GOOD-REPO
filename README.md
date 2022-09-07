@@ -1,6 +1,8 @@
 # "Arithmatic" Calculator
 [![Python package](https://github.com/hellgirl16/sehw1/actions/workflows/python-package.yml/badge.svg)](https://github.com/hellgirl16/sehw1/actions/workflows/python-package.yml)
 
+[![DOI:10.1101/2021.01.08.425840](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-B31B1B.svg)](https://doi.org/10.1101/2021.01.08.425840)
+
 
 
 This project has basic arithmetic functions - addition, subtraction, multiplication and division that can be performed between two numbers. 
